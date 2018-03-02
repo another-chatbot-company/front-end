@@ -1,0 +1,25 @@
+* {    
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+#graficos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+#pizza {
+    width: 600px;
+    height: 600px;
+}
+
+#barChart {
+    width: 400px;
+    height: 400px;
+}

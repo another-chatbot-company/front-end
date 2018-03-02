@@ -1,0 +1,22 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "Front end do projeto FepWeb SANAI Code XP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/another-chatbot-company/front-end.git"
+  },
+  "author": "Helena Zanini <helena.zanini1gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/another-chatbot-company/front-end/issues"
+  },
+  "homepage": "https://github.com/another-chatbot-company/front-end#readme",
+  "dependencies": {
+    "chart.js": "^2.7.2"
+  }
+}
